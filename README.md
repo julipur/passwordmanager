@@ -1,6 +1,6 @@
 # Password Manager
 
-My ***inconvinent*** little password maanger that I carry around in a USB. I got sic of all the online password managers cause all they did is store my passwords. They did not provide any convinience to change passwords regularly. 
+My ***inconvinent*** little password manager that I carry around in a USB. I got sick of all the online password managers cause all they did is store my passwords. They did not provide any convinient to change passwords regularly. 
 
 This uses PGP encryption to save a simple csv file (sample attached). You generate your keys, you generate encrypt your password and like any other password mamanger, you remember a passphrase to get your password. 
 
